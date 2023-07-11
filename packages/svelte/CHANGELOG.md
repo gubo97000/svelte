@@ -1,5 +1,13 @@
 # svelte
 
+## 4.0.6
+
+### Patch Changes
+
+- fix: ensure `svelte:component` evaluates props once ([#8946](https://github.com/sveltejs/svelte/pull/8946))
+
+- fix: handle destructured primitive literals ([#8871](https://github.com/sveltejs/svelte/pull/8871))
+
 ## 4.0.5
 
 ### Patch Changes
